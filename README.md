@@ -1,150 +1,105 @@
-
 <div align="center">
 
-# ❄️ IceDev404
+# <img src="https://iconify.design" width="36" height="36" valign="middle"> IceDev404
 
-### Software Developer
+### **Software Developer & Desktop Architect**
+*Breaking down complex logic into smooth, native desktop apps and clean automations.*
 
-*Building native applications, automation tools and interactive experiences.*
-
-<p>
-
-<a href="https://github.com/IceDev404">
-<img src="https://img.shields.io/badge/Open%20Source-GitHub-181717?style=for-the-badge&logo=github"/>
-
-</a>
-
-<img src="https://img.shields.io/badge/Linux-Workflow-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Python-Main%20Language-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
+<p align="center">
+  <a href="https://github.com">
+    <img src="https://shields.io"/>
+  </a>
+  <img src="https://shields.io"/>
+  <img src="https://shields.io"/>
 </p>
+
+---
+
+#### "Software is more than text in an editor. It is about creating reliable, frictionless tools that fix real everyday headaches."
 
 </div>
 
----
+## <img src="https://iconify.design" width="22" height="22" valign="middle"> Hello, I'm IceDev404
 
-# 👋 About
+I am a developer who loves building things that run locally on a machine. My sweet spot is creating native desktop software, writing automation scripts that save time, and experimenting with interactive code. I don't just build to make it work; I care deeply about clean project architecture, system stability, and making tools that feel lightweight and satisfying to use.
 
-Hi! I'm **IceDev404**, a software developer passionate about creating native desktop applications, automation tools and interactive software.
-
-I enjoy designing clean architectures, solving real-world problems and building software that is simple, maintainable and reliable.
-
-Most of my work is focused on Python, desktop development and open-source projects, with a strong interest in backend systems and game development.
+*   <img src="https://iconify.design" width="16" height="16" valign="middle"> **What I'm focused on:** Writing clean, modular Python applications and sharpening my desktop UX design skills.
+*   <img src="https://iconify.design" width="16" height="16" valign="middle"> **My bread and butter:** The Python ecosystem, Qt layouts, local storage solutions, and building cross-platform workflows.
+*   <img src="https://iconify.design" width="16" height="16" valign="middle"> **When I am not scripting desktop tools:** You will find me exploring backend system architecture or tinkering inside lightweight game engines.
 
 ---
 
-# 🚀 What I Build
+## <img src="https://iconify.design" width="22" height="22" valign="middle"> The Stack I Trust
 
-🖥 Native Desktop Applications
-
-⚙ Automation & Productivity Tools
-
-🌐 Backend APIs & Services
-
-🎮 Interactive Games & Experiences
-
-📦 Open Source Software
-
----
-
-# 🛠 Core Technologies
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,git,github,linux,sqlite,html,css,js,blender,godot"/>
-
+### **Desktop & Native UI Development**
+<p align="left">
+  <img src="https://shields.io"/>
+  <img src="https://shields.io"/>
+  <img src="https://shields.io"/>
 </p>
 
-### Desktop
-
-- PySide6
-- Qt Designer
-- SQLite
-
-### Workflow
-
-- Linux
-- Git
-- GitHub
-- Object-Oriented Programming
-- Software Architecture
-
----
-
-# 📂 Featured Projects
-
-### 🛠 QtForge
-
-Modern desktop utility for Qt development.
-
----
-
-### ⚡ ReverseFate
-
-Experimental desktop application focused on modular architecture and user interface design.
-
----
-
-### 📋 TaskFlow
-
-Desktop productivity application developed with PySide6.
-
----
-
-### 📦 Future Projects
-
-More open-source software coming soon.
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=IceDev404&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IceDev404&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=IceDev404&theme=tokyonight&hide_border=true"/>
-
+### **Environment & Project Workflow**
+<p align="left">
+  <img src="https://shields.io"/>
+  <img src="https://shields.io"/>
+  <img src="https://shields.io"/>
+  <img src="https://shields.io"/>
+  <img src="https://shields.io"/>
 </p>
 
 ---
 
-# 💡 Development Philosophy
+## <img src="https://iconify.design" width="22" height="22" valign="middle"> Stuff I Have Built
 
-> Software is more than code.
->
-> Every project is an opportunity to learn, improve and create something useful.
->
-> I believe in clean architecture, continuous learning and solving real problems through technology.
+These are a few projects I have actively designed to smooth out developer workflows and personal productivity pipelines:
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3><img src="https://iconify.design" width="18" height="18" valign="middle"> QtForge</h3>
+      <p>A desktop utility designed to remove the friction from creating and managing asset layouts inside Qt pipelines.</p>
+      <!-- Put your real link inside the href attribute below once ready -->
+      <a href="#"><b>Check out the source →</b></a>
+    </td>
+    <td width="50%">
+      <h3><img src="https://iconify.design" width="18" height="18" valign="middle"> ReverseFate</h3>
+      <p>An experimental sandbox application built to test how cleanly a modular application core can talk to disconnected interface views.</p>
+      <a href="#"><b>Check out the source →</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><img src="https://iconify.design" width="18" height="18" valign="middle"> TaskFlow</h3>
+      <p>A minimal, responsive task tracking engine running entirely natively via PySide6 to keep day-to-day focus organized.</p>
+      <a href="#"><b>Check out the source →</b></a>
+    </td>
+    <td width="50%">
+      <h3><img src="https://iconify.design" width="18" height="18" valign="middle"> Future Labs</h3>
+      <p>Constantly drafting new backend modules and desktop automation helpers. Keep an eye on my timeline for new repository drops.</p>
+      <a href="https://github.com?tab=repositories"><b>Browse all repos →</b></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-# 📫 Connect
+## <img src="https://iconify.design" width="22" height="22" valign="middle"> GitHub Metrics
 
 <p align="center">
-
-<a href="https://github.com/IceDev404">
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-</a>
-
+  <img height="180" src="https://vercel.app" alt="IceDev404's commit habits" />
+  <img height="180" src="https://vercel.app" alt="IceDev404's primary tools" />
 </p>
 
 ---
+
+## <img src="https://iconify.design" width="22" height="22" valign="middle"> Let's Connect
+
+I always love a good tech conversation about desktop UX hacks, backend pipelines, custom setups, or neat open-source ideas.
+
+*   💬 **Let's talk about:** Python optimizations, setting up multi-threaded applications in Qt, or custom Linux build quirks.
+*   🚀 **Everyday routine:** Putting together clean, maintainable systems—one commit at a time.
 
 <div align="center">
-
-### ❄️ IceDev404
-
-**Building software one commit at a time.**
-
+  <br />
+  <sub>Built by hand by <a href="https://github.com">IceDev404</a>. Code cleanly.</sub>
 </div>
-```
