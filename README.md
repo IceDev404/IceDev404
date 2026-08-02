@@ -1,53 +1,128 @@
 # ❄️ IceDev404
 
-### **Programming, technology, and mad projects. If it can be imagined, it can be built.**
+### **Programming, technology, and ambitious projects. If it can be imagined, it can be built.**
 
-(https://www.youtube.com/@IceDev404)
-[![GitHub](https://shields.io)](https://github.com/IceDev404)
-[![Linux](https://shields.io)](#)
-[![Python](https://shields.io)](#)
+<p align="center">
+  <a href="https://github.com/IceDev404">
+    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="34" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/@IceDev404">
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" width="34" alt="YouTube"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="34" title="Python"/>
+  <img src="https://cdn.simpleicons.org/qt/41CD52" width="34" title="Qt"/>
+  <img src="https://cdn.simpleicons.org/html5/E34F26" width="34" title="HTML5"/>
+  <img src="https://cdn.simpleicons.org/css3/1572B6" width="34" title="CSS3"/>
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="34" title="JavaScript"/>
+  <img src="https://cdn.simpleicons.org/flask/000000" width="34" title="Flask"/>
+  <img src="https://cdn.simpleicons.org/fastapi/009688" width="34" title="FastAPI"/>
+  <img src="https://cdn.simpleicons.org/sqlite/003B57" width="34" title="SQLite"/>
+  <img src="https://cdn.simpleicons.org/git/F05032" width="34" title="Git"/>
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="34" title="GitHub"/>
+  <img src="https://cdn.simpleicons.org/linux/FCC624" width="34" title="Linux"/>
+  <img src="https://cdn.simpleicons.org/blender/E87D0D" width="34" title="Blender"/>
+  <img src="https://cdn.simpleicons.org/godotengine/478CBF" width="34" title="Godot"/>
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" width="34" title="Figma"/>
+  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" width="34" title="Photoshop"/>
+</p>
 
 ---
 
 ## 👋 About Me
 
-I am **IceDev404**. I build software focused on local performance, automation, and clean interfaces. I like to understand how things work under the hood, which leads me to explore multiple development fields without staying trapped in a single technology.
+Hi! I'm **IceDev404**, a software developer passionate about creating fast, reliable, and well-structured applications.
 
-My work is mainly split into four pillars:
-- 📱 **Desktop Apps:** Native and cross-platform development focused on building fast and lightweight tools.
-- 🌐 **Fullstack:** Building complete systems, joining backend logic, local databases, and stable APIs.
-- 🎨 **Design & UI/UX:** Creating clean and intuitive interfaces. I believe good code needs functional design.
-- 🕹️ **Games & Graphics:** Creative engine explorations to test interactive logic and optimization.
+I enjoy understanding how software works internally, from architecture to implementation. Rather than limiting myself to a single field, I explore multiple areas of development while keeping a strong focus on clean code, maintainability, and performance.
 
----
+### 🚀 Main Areas
 
-## 🧰 My Stack
-
-*   **Desktop:** Python, PySide6 (Qt), SQLite.
-*   **Web / Fullstack:** HTML, CSS, JavaScript, Flask, FastAPI.
-*   **Games & 3D:** Godot Engine, Blender.
-*   **Design:** Figma, Photoshop.
-*   **Environment:** Linux-based workflow, Git version control.
+- 🖥️ **Desktop Development** — Native and cross-platform applications with Python and Qt.
+- 🌐 **Full-Stack Development** — Building complete systems with modern backend technologies and APIs.
+- 🎨 **UI/UX Design** — Designing clean, functional, and intuitive user interfaces.
+- 🎮 **Graphics & Game Development** — Exploring rendering, interactive systems, and creative programming.
 
 ---
 
-## 📂 Main Projects
+# 🧰 Tech Stack
 
-These are the two primary open-source projects I am actively investing my time in:
+### 🖥️ Desktop Development
 
-*   🛠️ **QtForge** — A desktop utility designed to streamline asset management and layout structures in Qt pipelines.
-*   ⚡ **ReverseFate** — Experimental software built for testing modular architecture and decoupling user interfaces.
+- Python
+- PySide6 (Qt)
+- SQLite
+
+### 🌐 Web Development
+
+- HTML5
+- CSS3
+- JavaScript
+- Flask
+- FastAPI
+
+### 🎨 Design
+
+- Figma
+- Adobe Photoshop
+
+### 🎮 Graphics & 3D
+
+- Godot Engine
+- Blender
+
+### ⚙️ Development Environment
+
+- Linux
+- Git
+- GitHub
 
 ---
 
-## 📫 Contact
+# 📂 Featured Projects
 
-If you want to talk about software architecture, Qt desktop development, Linux customization, or open-source projects, feel free to reach out.
+### 🛠️ QtForge
 
-*   📧 **Gmail:** [icedev404@gmail.com](mailto:icedev404@gmail.com)
-*   📺 **YouTube:** [IceDev404 Channel](https://www.youtube.com/@IceDev404)
+A desktop toolkit designed to simplify Qt development by automating repetitive tasks such as asset management, resource compilation, and UI workflows.
+
+### ⚡ ReverseFate
+
+An experimental desktop application used to explore modular architectures, scalable project organization, and decoupled user interface design.
+
+---
+
+# 📈 Currently Learning
+
+- Software Architecture
+- Design Patterns
+- Algorithms & Data Structures
+- Desktop Application Engineering
+- API Development
+- Linux Ecosystem
+- Performance Optimization
+
+---
+
+# 📫 Contact
+
+Feel free to get in touch if you'd like to discuss desktop development, software architecture, Linux, or open-source projects.
+
+- 📧 **Email:** **icedev404@gmail.com**
+- 💻 **GitHub:** https://github.com/IceDev404
+- 📺 **YouTube:** https://www.youtube.com/@IceDev404
+
+---
 
 <div align="center">
-  <br />
-  <sub>Developed by <a href="https://github.com/IceDev404">IceDev404</a>.</sub>
+
+### Thanks for visiting! ❄️
+
+*"Great software is built through curiosity, consistency, and continuous learning."*
+
+<br>
+
+<sub>Developed with ❤️ by <strong>IceDev404</strong></sub>
+
 </div>
