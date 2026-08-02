@@ -1,6 +1,6 @@
 # ❄️ IceDev404
 
-### **Programação, tecnologia e projetos loucos. Se dá para imaginar, dá para tentar construir.**
+### **Programming, technology, and mad projects. If it can be imagined, it can be built.**
 
 [![YouTube](https://shields.io)](https://youtube.com)
 [![GitHub](https://shields.io)](https://github.com)
@@ -9,53 +9,45 @@
 
 ---
 
-## 👋 Sobre Mim
+## 👋 About Me
 
-Sou o **IceDev404**. Construo software focado em desempenho local, automação e interfaces limpas. Gosto de entender como as coisas funcionam a fundo, o que me leva a explorar várias áreas do desenvolvimento sem ficar preso a uma única tecnologia.
+I am **IceDev404**. I build software focused on local performance, automation, and clean interfaces. I like to understand how things work under the hood, which leads me to explore multiple development fields without staying trapped in a single technology.
 
-O meu trabalho divide-se principalmente em quatro pilares:
-- 📱 **Aplicações Desktop:** Desenvolvimento nativo e multiplataforma, focado na criação de ferramentas rápidas e leves.
-- 🌐 **Fullstack:** Construção de sistemas completos, unindo lógica de backend, bases de dados locais e APIs estáveis.
-- 🎨 **Design & UI/UX:** Criação de interfaces limpas e intuitivas. Acredito que um bom código precisa de um design funcional.
-- 🕹️ **Jogos & Gráficos:** Explorações criativas em motores de jogos para testar lógica interativa e otimização.
-
----
-
-## 🧰 O Meu Stack
-
-*   **Desktop:** Python, PySide6 (Qt) e SQLite.
-*   **Web / Fullstack:** HTML, CSS, JavaScript, Flask e FastAPI.
-*   **Jogos & 3D:** Godot Engine e Blender.
-*   **Design:** Figma e Photoshop.
-*   **Ambiente:** Fluxo de trabalho baseado em Linux e controlo de versões com Git.
+My work is mainly split into four pillars:
+- 📱 **Desktop Apps:** Native and cross-platform development focused on building fast and lightweight tools.
+- 🌐 **Fullstack:** Building complete systems, joining backend logic, local databases, and stable APIs.
+- 🎨 **Design & UI/UX:** Creating clean and intuitive interfaces. I believe good code needs functional design.
+- 🕹️ **Games & Graphics:** Creative engine explorations to test interactive logic and optimization.
 
 ---
 
-## 📂 Projetos em Desenvolvimento
+## 🧰 My Stack
 
-- 🛠️ **QtForge** — Utilitário desktop desenhado para otimizar a gestão de assets e estruturas de layouts em pipelines Qt.
-- ⚡ **ReverseFate** — Software experimental para testes de arquitetura modular e desacoplamento de interfaces.
-- 📋 **TaskFlow** — Gestor de produtividade local e minimalista construído nativamente com a framework PySide6.
-
----
-
-## 📊 Estatísticas
-
-<p align="center">
-  <img height="180" src="https://vercel.app" />
-  <img height="180" src="https://vercel.app" />
-</p>
+*   **Desktop:** Python, PySide6 (Qt), SQLite.
+*   **Web / Fullstack:** HTML, CSS, JavaScript, Flask, FastAPI.
+*   **Games & 3D:** Godot Engine, Blender.
+*   **Design:** Figma, Photoshop.
+*   **Environment:** Linux-based workflow, Git version control.
 
 ---
 
-## 📫 Contacto
+## 📂 Main Projects
 
-Se quiseres discutir arquitetura de software, desenvolvimento desktop com Qt, costumização Linux ou projetos open-source, sê bem-vindo.
+These are the two primary open-source projects I am actively investing my time in:
 
-*   💬 **Interesses atuais:** Otimização em Python, padrões de design de UI e arquitetura limpa.
-*   📺 **Conteúdo:** Partilho alguns dos meus projetos e testes no meu [Canal do YouTube](https://youtube.com).
+*   🛠️ **QtForge** — A desktop utility designed to streamline asset management and layout structures in Qt pipelines.
+*   ⚡ **ReverseFate** — Experimental software built for testing modular architecture and decoupling user interfaces.
+
+---
+
+## 📫 Contact
+
+If you want to talk about software architecture, Qt desktop development, Linux customization, or open-source projects, feel free to reach out.
+
+*   📧 **Gmail:** [icedev404@gmail.com](mailto:icedev404@gmail.com) *(Substitui pelo teu e-mail real se for diferente)*
+*   📺 **YouTube:** [IceDev404 Channel](https://youtube.com)
 
 <div align="center">
   <br />
-  <sub>Desenvolvido por <a href="https://github.com">IceDev404</a>.</sub>
+  <sub>Developed by <a href="https://github.com">IceDev404</a>.</sub>
 </div>
