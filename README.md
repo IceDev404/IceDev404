@@ -2,8 +2,8 @@
 
 ### **Programming, technology, and mad projects. If it can be imagined, it can be built.**
 
-[![YouTube](https://shields.io)](https://youtube.com)
-[![GitHub](https://shields.io)](https://github.com)
+[![YouTube](https://shields.io)](https://www.youtube.com/@IceDev404)
+[![GitHub](https://shields.io)](https://github.com/IceDev404)
 [![Linux](https://shields.io)](#)
 [![Python](https://shields.io)](#)
 
