@@ -1,105 +1,66 @@
 <div align="center">
 
-# <img src="https://iconify.design" width="36" height="36" valign="middle"> IceDev404
+# ❄️ IceDev404
 
-### **Software Developer & Desktop Architect**
-*Breaking down complex logic into smooth, native desktop apps and clean automations.*
+### **Just a developer who likes building things that run locally.**
+*Crafting Python desktop apps, writing automation scripts, and figuring out clean architecture.*
 
-<p align="center">
-  <a href="https://github.com">
-    <img src="https://shields.io"/>
-  </a>
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-</p>
-
----
-
-#### "Software is more than text in an editor. It is about creating reliable, frictionless tools that fix real everyday headaches."
+[![GitHub](https://shields.io)](https://github.com)
+[![Linux](https://shields.io)](#)
+[![Python](https://shields.io)](#)
 
 </div>
 
-## <img src="https://iconify.design" width="22" height="22" valign="middle"> Hello, I'm IceDev404
+---
 
-I am a developer who loves building things that run locally on a machine. My sweet spot is creating native desktop software, writing automation scripts that save time, and experimenting with interactive code. I don't just build to make it work; I care deeply about clean project architecture, system stability, and making tools that feel lightweight and satisfying to use.
+## ☕ Hey there!
 
-*   <img src="https://iconify.design" width="16" height="16" valign="middle"> **What I'm focused on:** Writing clean, modular Python applications and sharpening my desktop UX design skills.
-*   <img src="https://iconify.design" width="16" height="16" valign="middle"> **My bread and butter:** The Python ecosystem, Qt layouts, local storage solutions, and building cross-platform workflows.
-*   <img src="https://iconify.design" width="16" height="16" valign="middle"> **When I am not scripting desktop tools:** You will find me exploring backend system architecture or tinkering inside lightweight game engines.
+I'm **IceDev404**. I spend most of my time staring at a code editor, figuring out how to turn complex, messy logic into clean and reliable desktop software. I'm deeply into desktop development, automation tools, and local workflows. 
+
+For me, writing software isn't just about making the code work—it's about building tools that feel lightweight, don't crash, and actually make life a bit easier. When I'm not tweaking Qt layouts or optimizing database queries, I'm usually breaking things in lightweight game engines or messing around with Linux configuration files.
 
 ---
 
-## <img src="https://iconify.design" width="22" height="22" valign="middle"> The Stack I Trust
+## 🛠️ The Tech I Actually Use Everyday
 
-### **Desktop & Native UI Development**
-<p align="left">
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-</p>
+### **Building Desktop & Interfaces**
+🧩 **PySide6 / Qt Designer** — My go-to framework for crafting responsive, native desktop applications.
+🗄️ **SQLite** — Because lightweight local apps deserve efficient, zero-configuration storage.
+🐍 **Python** — The language behind almost everything I build.
 
-### **Environment & Project Workflow**
-<p align="left">
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-</p>
+### **My Workflow & Habits**
+🐧 **Linux** — My native habitat and daily driver workspace.
+🌿 **Git & GitHub** — Tracking everything, one atomic commit at a time.
+📐 **Clean Architecture** — Trying to keep my code separated, modular, and easy to maintain months later.
 
 ---
 
-## <img src="https://iconify.design" width="22" height="22" valign="middle"> Stuff I Have Built
+## 📂 Projects I'm Tinkering With
 
-These are a few projects I have actively designed to smooth out developer workflows and personal productivity pipelines:
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3><img src="https://iconify.design" width="18" height="18" valign="middle"> QtForge</h3>
-      <p>A desktop utility designed to remove the friction from creating and managing asset layouts inside Qt pipelines.</p>
-      <!-- Put your real link inside the href attribute below once ready -->
-      <a href="#"><b>Check out the source →</b></a>
-    </td>
-    <td width="50%">
-      <h3><img src="https://iconify.design" width="18" height="18" valign="middle"> ReverseFate</h3>
-      <p>An experimental sandbox application built to test how cleanly a modular application core can talk to disconnected interface views.</p>
-      <a href="#"><b>Check out the source →</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3><img src="https://iconify.design" width="18" height="18" valign="middle"> TaskFlow</h3>
-      <p>A minimal, responsive task tracking engine running entirely natively via PySide6 to keep day-to-day focus organized.</p>
-      <a href="#"><b>Check out the source →</b></a>
-    </td>
-    <td width="50%">
-      <h3><img src="https://iconify.design" width="18" height="18" valign="middle"> Future Labs</h3>
-      <p>Constantly drafting new backend modules and desktop automation helpers. Keep an eye on my timeline for new repository drops.</p>
-      <a href="https://github.com?tab=repositories"><b>Browse all repos →</b></a>
-    </td>
-  </tr>
-</table>
+*   **QtForge** — A desktop utility I started building to remove the absolute friction of managing layouts and assets within Qt development pipelines.
+*   **ReverseFate** — My playground application. It's an experimental project where I'm testing how to cleanly decouple a core application logic from its user interface views.
+*   **TaskFlow** — A minimal productivity tracker I built with PySide6 because I needed a fast, no-nonsense local tool to keep my own daily focus in check.
+*   *More open-source experiments are always cooking in the background.*
 
 ---
 
-## <img src="https://iconify.design" width="22" height="22" valign="middle"> GitHub Metrics
+## 📊 Inside the Commits
 
 <p align="center">
-  <img height="180" src="https://vercel.app" alt="IceDev404's commit habits" />
-  <img height="180" src="https://vercel.app" alt="IceDev404's primary tools" />
+  <img height="180" src="https://vercel.app" alt="My GitHub Stats" />
+  <img height="180" src="https://vercel.app" alt="My Top Languages" />
 </p>
 
 ---
 
-## <img src="https://iconify.design" width="22" height="22" valign="middle"> Let's Connect
+## 💬 Let's Chat
 
-I always love a good tech conversation about desktop UX hacks, backend pipelines, custom setups, or neat open-source ideas.
+If you want to talk about multi-threaded applications in Qt, share custom Linux setup tricks, or just chat about open-source projects, feel free to drop a message or open an issue!
 
-*   💬 **Let's talk about:** Python optimizations, setting up multi-threaded applications in Qt, or custom Linux build quirks.
-*   🚀 **Everyday routine:** Putting together clean, maintainable systems—one commit at a time.
+*   **Currently down to talk about:** Python optimizations, UI shortcuts, and backend logic.
+*   **Main goal:** Building solid software that lasts, one single commit at a time.
 
 <div align="center">
   <br />
-  <sub>Built by hand by <a href="https://github.com">IceDev404</a>. Code cleanly.</sub>
+  <sub>Built locally by <a href="https://github.com">IceDev404</a>. Keep it simple.</sub>
 </div>
