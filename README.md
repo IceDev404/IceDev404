@@ -1,150 +1,61 @@
-
-<div align="center">
-
 # ❄️ IceDev404
 
-### Software Developer
+### **Programação, tecnologia e projetos loucos. Se dá para imaginar, dá para tentar construir.**
 
-*Building native applications, automation tools and interactive experiences.*
-
-<p>
-
-<a href="https://github.com/IceDev404">
-<img src="https://img.shields.io/badge/Open%20Source-GitHub-181717?style=for-the-badge&logo=github"/>
-
-</a>
-
-<img src="https://img.shields.io/badge/Linux-Workflow-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Python-Main%20Language-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-</p>
-
-</div>
+[![YouTube](https://shields.io)](https://youtube.com)
+[![GitHub](https://shields.io)](https://github.com)
+[![Linux](https://shields.io)](#)
+[![Python](https://shields.io)](#)
 
 ---
 
-# 👋 About
+## 👋 Sobre Mim
 
-Hi! I'm **IceDev404**, a software developer passionate about creating native desktop applications, automation tools and interactive software.
+Sou o **IceDev404**. Construo software focado em desempenho local, automação e interfaces limpas. Gosto de entender como as coisas funcionam a fundo, o que me leva a explorar várias áreas do desenvolvimento sem ficar preso a uma única tecnologia.
 
-I enjoy designing clean architectures, solving real-world problems and building software that is simple, maintainable and reliable.
-
-Most of my work is focused on Python, desktop development and open-source projects, with a strong interest in backend systems and game development.
-
----
-
-# 🚀 What I Build
-
-🖥 Native Desktop Applications
-
-⚙ Automation & Productivity Tools
-
-🌐 Backend APIs & Services
-
-🎮 Interactive Games & Experiences
-
-📦 Open Source Software
+O meu trabalho divide-se principalmente em quatro pilares:
+- 📱 **Aplicações Desktop:** Desenvolvimento nativo e multiplataforma, focado na criação de ferramentas rápidas e leves.
+- 🌐 **Fullstack:** Construção de sistemas completos, unindo lógica de backend, bases de dados locais e APIs estáveis.
+- 🎨 **Design & UI/UX:** Criação de interfaces limpas e intuitivas. Acredito que um bom código precisa de um design funcional.
+- 🕹️ **Jogos & Gráficos:** Explorações criativas em motores de jogos para testar lógica interativa e otimização.
 
 ---
 
-# 🛠 Core Technologies
+## 🧰 O Meu Stack
+
+*   **Desktop:** Python, PySide6 (Qt) e SQLite.
+*   **Web / Fullstack:** HTML, CSS, JavaScript, Flask e FastAPI.
+*   **Jogos & 3D:** Godot Engine e Blender.
+*   **Design:** Figma e Photoshop.
+*   **Ambiente:** Fluxo de trabalho baseado em Linux e controlo de versões com Git.
+
+---
+
+## 📂 Projetos em Desenvolvimento
+
+- 🛠️ **QtForge** — Utilitário desktop desenhado para otimizar a gestão de assets e estruturas de layouts em pipelines Qt.
+- ⚡ **ReverseFate** — Software experimental para testes de arquitetura modular e desacoplamento de interfaces.
+- 📋 **TaskFlow** — Gestor de produtividade local e minimalista construído nativamente com a framework PySide6.
+
+---
+
+## 📊 Estatísticas
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,git,github,linux,sqlite,html,css,js,blender,godot"/>
-
-</p>
-
-### Desktop
-
-- PySide6
-- Qt Designer
-- SQLite
-
-### Workflow
-
-- Linux
-- Git
-- GitHub
-- Object-Oriented Programming
-- Software Architecture
-
----
-
-# 📂 Featured Projects
-
-### 🛠 QtForge
-
-Modern desktop utility for Qt development.
-
----
-
-### ⚡ ReverseFate
-
-Experimental desktop application focused on modular architecture and user interface design.
-
----
-
-### 📋 TaskFlow
-
-Desktop productivity application developed with PySide6.
-
----
-
-### 📦 Future Projects
-
-More open-source software coming soon.
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=IceDev404&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IceDev404&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=IceDev404&theme=tokyonight&hide_border=true"/>
-
+  <img height="180" src="https://vercel.app" />
+  <img height="180" src="https://vercel.app" />
 </p>
 
 ---
 
-# 💡 Development Philosophy
+## 📫 Contacto
 
-> Software is more than code.
->
-> Every project is an opportunity to learn, improve and create something useful.
->
-> I believe in clean architecture, continuous learning and solving real problems through technology.
+Se quiseres discutir arquitetura de software, desenvolvimento desktop com Qt, costumização Linux ou projetos open-source, sê bem-vindo.
 
----
-
-# 📫 Connect
-
-<p align="center">
-
-<a href="https://github.com/IceDev404">
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-</a>
-
-</p>
-
----
+*   💬 **Interesses atuais:** Otimização em Python, padrões de design de UI e arquitetura limpa.
+*   📺 **Conteúdo:** Partilho alguns dos meus projetos e testes no meu [Canal do YouTube](https://youtube.com).
 
 <div align="center">
-
-### ❄️ IceDev404
-
-**Building software one commit at a time.**
-
+  <br />
+  <sub>Desenvolvido por <a href="https://github.com">IceDev404</a>.</sub>
 </div>
-```
