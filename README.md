@@ -44,10 +44,10 @@ These are the two primary open-source projects I am actively investing my time i
 
 If you want to talk about software architecture, Qt desktop development, Linux customization, or open-source projects, feel free to reach out.
 
-*   📧 **Gmail:** [icedev404@gmail.com](mailto:icedev404@gmail.com) *(Substitui pelo teu e-mail real se for diferente)*
-*   📺 **YouTube:** [IceDev404 Channel](https://youtube.com)
+*   📧 **Gmail:** [icedev404@gmail.com](mailto:icedev404@gmail.com)
+*   📺 **YouTube:** [IceDev404 Channel](https://www.youtube.com/@IceDev404)
 
 <div align="center">
   <br />
-  <sub>Developed by <a href="https://github.com">IceDev404</a>.</sub>
+  <sub>Developed by <a href="https://github.com/IceDev404">IceDev404</a>.</sub>
 </div>
