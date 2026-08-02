@@ -30,8 +30,8 @@ I'm **IceDev404**, a software developer who enjoys building desktop applications
 
 ## 📂 Projects
 
-- 🛠️ QtForge
-- ⚡ ReverseFate
+- 🌐 Atlas
+- 🛠️ PyGet
 
 ---
 
