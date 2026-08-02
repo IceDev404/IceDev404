@@ -1,6 +1,6 @@
 # ❄️ IceDev404
 
-> Programming, technology, and ambitious projects.
+> **Programming, technology, and crazy projects. If it can be imagined, it's worth trying to build.**
 
 <p align="center">
   <a href="https://github.com/IceDev404">
@@ -16,29 +16,27 @@
 
 ## 👋 About
 
-I'm **IceDev404**.
-
-I enjoy building desktop applications, web projects, automation tools, and experimenting with software architecture.
+I'm **IceDev404**, a software developer who enjoys building desktop applications, web projects, automation tools, and experimenting with software architecture.
 
 ---
 
 ## 🛠️ Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,qt,html,css,js,flask,fastapi,sqlite,git,github,linux,blender,godot,figma,ps&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,qt,html,css,js,flask,fastapi,sqlite,git,github,linux,blender,godot,figma,ps&perline=8" alt="Technologies"/>
 </p>
 
 ---
 
 ## 📂 Projects
 
-- 🛠️ **QtForge**
-- ⚡ **ReverseFate**
+- 🛠️ QtForge
+- ⚡ ReverseFate
 
 ---
 
 ## 📫 Contact
 
-- 📧 **Email:** **icedev404@gmail.com**
-- 💻 **GitHub:** https://github.com/IceDev404
-- 📺 **YouTube:** https://www.youtube.com/@IceDev404
+- 📧 Email: <icedev404@gmail.com>
+- 💻 GitHub: <https://github.com/IceDev404>
+- 📺 YouTube: <https://www.youtube.com/@IceDev404>
