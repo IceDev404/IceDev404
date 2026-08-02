@@ -1,174 +1,110 @@
+````markdown
 <div align="center">
+
+<img src="assets/banner.svg" width="100%" alt="IceDev404 Banner"/>
 
 # ❄️ IceDev404
 
-### Software Engineer • Python Developer • Desktop Applications
+### Python Developer • Native Desktop Software • Automation
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1200&color=4FC3F7&center=true&vCenter=true&width=700&lines=Building+Desktop+Software;Python+Developer;PySide6+%7C+Automation+%7C+FastAPI;Linux+Enthusiast;Always+Learning." />
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+software+that+solves+real+problems.;Python+%7C+PySide6+%7C+FastAPI;Linux+Enthusiast.;Always+learning.+Always+building." />
+</p>
 
----
-
-*"Turning ideas into native software."*
+*"Clean code. Practical software. Continuous improvement."*
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About
 
-I'm a developer passionate about creating native desktop software using Python.
+I'm a Python developer passionate about building native desktop applications, automation tools and backend services.
 
-I enjoy designing clean architectures, automating repetitive tasks and building applications that solve real-world problems.
+I enjoy writing clean, maintainable code, designing scalable software architectures and creating applications that solve real-world problems.
 
-Currently focused on mastering software engineering fundamentals before moving into larger systems.
+Every project is an opportunity to learn, improve and build something meaningful.
 
 ---
 
-# 🚀 Current Focus
+## ⚡ Specializations
 
-- 🐍 Advanced Python
-- 🖥 PySide6 Desktop Development
+- 🐍 Python
+- 🖥 Native Desktop Development (PySide6)
 - ⚙ Git & Linux
 - 📦 Software Architecture
-- 🔄 Automation
-- 🌐 FastAPI
-- 🎮 Game Development (Godot)
-- 🎨 Blender Low Poly
+- 🔄 Automation & Scripting
+- 🌐 REST APIs
+- 🗄 SQLite
+- 🎨 Minimal UI Design
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-### Languages
+<p align="center">
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,js,html,css"/>
-
-</p>
-
-### Frameworks
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask"/>
-
-</p>
-
-### Desktop
-
-<p>
-
-PySide6 • Qt Designer • SQLite
-
-</p>
-
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,blender,godot"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,html,css,js,git,github,linux,vscode,blender,godot" />
 
 </p>
 
 ---
 
-# 🧠 Software Philosophy
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=IceDev404&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IceDev404&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=IceDev404&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| **QtForge** | Utility for compiling Qt Designer `.ui` and `.qrc` files. |
+| **TaskFlow** | Modern desktop task manager built with PySide6. |
+| **StreamCatch** | Native media downloader powered by Python. |
+| **ReverseFate** | Experimental desktop application focused on UI design. |
+
+---
+
+## 🎯 Development Principles
 
 ```text
-Write less.
-Think more.
-
-Simple architecture.
-Readable code.
-
-Automation over repetition.
-
-Solve real problems.
+• Build native applications.
+• Write clean and readable code.
+• Prefer simplicity over complexity.
+• Automate repetitive tasks.
+• Learn by building real projects.
 ```
 
 ---
 
-# 📚 Learning Roadmap
+## 📌 Currently
 
-```text
-Python
-   │
-   ├── Git
-   ├── Linux
-   ├── PySide6
-   ├── Software Architecture
-   ├── Automation
-   ├── FastAPI
-   ├── Web Development
-   ├── Game Development
-   ├── Blender
-   └── Content Creation
-```
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=IceDev404&show_icons=true&theme=tokyonight"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IceDev404&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=IceDev404&theme=tokyonight"/>
-
-</p>
-
----
-
-# ⚡ Featured Projects
-
-📦 Desktop Applications
-
-⚙ Automation Tools
-
-🌐 Web APIs
-
-🎮 Game Development
-
-🚀 Open Source
-
----
-
-# 🎯 2026 Goals
-
-- Build professional desktop software
-- Master Git & Linux
-- Learn FastAPI
-- Publish open-source projects
-- Launch personal website
-- Develop commercial software
-
----
-
-# 🌍 Connect
-
-<p>
-
-<a href="https://github.com/IceDev404">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</p>
+- Developing desktop applications with PySide6
+- Improving software architecture skills
+- Exploring FastAPI and backend development
+- Building open-source projects
 
 ---
 
 <div align="center">
 
-### "Code. Learn. Build. Repeat."
+### Thanks for visiting.
+
+**Building software, one commit at a time.**
 
 </div>
+````
